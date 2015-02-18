@@ -1,0 +1,35 @@
+// Place all the styles related to the player controller here.
+// They will automatically be included in application.css.
+// You can use Sass (SCSS) here: http://sass-lang.com/
+@import "bootstrap-sprockets";
+@import "bootstrap";
+.field_with_errors label {
+  color: #a94442;
+}
+.field_with_errors input {
+  border: solid 1px #a94442;
+}
+.game h1 {
+	color: #fff;
+	text-align: center;
+}
+.game .actions {
+	clear: both;
+	text-align: center;
+}
+#error_explanation {
+	background-color: #f2dede;
+    border-color: #ebccd1;
+    color: #a94442;
+    padding: 15px;
+    border-radius: 4px;
+    margin-bottom: 30px;
+}
+.game .notice {
+	background-color: #dff0d8;
+    border-color: #d6e9c6;
+    color: #3c763d;
+    padding: 15px;
+    border-radius: 4px;
+    margin-bottom: 30px;
+}
