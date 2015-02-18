@@ -1,5 +1,6 @@
-<h1>Validando un modelo</h1>
-<p>challenge #3 (MIR)</p>
+VALIDANDO UN MODELO
+
+challenge #3 (MIR)
 
 
 
