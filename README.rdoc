@@ -1,6 +1,6 @@
 VALIDANDO UN MODELO
 
-challenge #3 (MIR)
+challenge rails #3 (MIR)
 
 
 
